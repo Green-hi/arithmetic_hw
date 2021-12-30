@@ -1,0 +1,13 @@
+﻿  method2.cpp
+  method3.cpp
+C:\Users\lenovo\source\repos\TaoWa\TaoWa\util.cpp(29,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\source\repos\TaoWa\TaoWa\util.cpp(38,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\source\repos\TaoWa\TaoWa\util.cpp(41,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\source\repos\TaoWa\TaoWa\method3.cpp(46,26): warning C4018: “<”: 有符号/无符号不匹配
+  util.cpp
+C:\Users\lenovo\source\repos\TaoWa\TaoWa\util.cpp(29,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\source\repos\TaoWa\TaoWa\util.cpp(38,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\source\repos\TaoWa\TaoWa\util.cpp(41,27): warning C4018: “<”: 有符号/无符号不匹配
+  method1.cpp
+  正在生成代码...
+  TaoWa.vcxproj -> C:\Users\lenovo\source\repos\TaoWa\Debug\TaoWa.exe
